@@ -1,0 +1,14 @@
+C:\Users\ramon\source\repos\LinqWithLambda\LinqWithLambda\bin\Debug\LinqWithLambda.exe.config
+C:\Users\ramon\source\repos\LinqWithLambda\LinqWithLambda\bin\Debug\LinqWithLambda.exe
+C:\Users\ramon\source\repos\LinqWithLambda\LinqWithLambda\bin\Debug\LinqWithLambda.pdb
+C:\Users\ramon\source\repos\LinqWithLambda\LinqWithLambda\obj\Debug\LinqWithLambda.csproj.AssemblyReference.cache
+C:\Users\ramon\source\repos\LinqWithLambda\LinqWithLambda\obj\Debug\LinqWithLambda.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\LinqWithLambda\LinqWithLambda\obj\Debug\LinqWithLambda.exe
+C:\Users\ramon\source\repos\LinqWithLambda\LinqWithLambda\obj\Debug\LinqWithLambda.pdb
+C:\Users\ramon\Documents\GitHub\LinqWithC\LinqWithLambda\LinqWithLambda\bin\Debug\LinqWithLambda.exe.config
+C:\Users\ramon\Documents\GitHub\LinqWithC\LinqWithLambda\LinqWithLambda\bin\Debug\LinqWithLambda.exe
+C:\Users\ramon\Documents\GitHub\LinqWithC\LinqWithLambda\LinqWithLambda\bin\Debug\LinqWithLambda.pdb
+C:\Users\ramon\Documents\GitHub\LinqWithC\LinqWithLambda\LinqWithLambda\obj\Debug\LinqWithLambda.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\GitHub\LinqWithC\LinqWithLambda\LinqWithLambda\obj\Debug\LinqWithLambda.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\GitHub\LinqWithC\LinqWithLambda\LinqWithLambda\obj\Debug\LinqWithLambda.exe
+C:\Users\ramon\Documents\GitHub\LinqWithC\LinqWithLambda\LinqWithLambda\obj\Debug\LinqWithLambda.pdb
