@@ -11,5 +11,11 @@ namespace LinqWithLambda.Model {
         public int idade { get; set; }
 
 
+        public int SecondIdade {
+            get {
+                Console.WriteLine("Eu sou isso"+nome);
+                return idade;
+            }
+        }
     }
 }
