@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace LinqWithLambda {
     class Program {
         static void Main(string[] args) {
-            ITest test = new TestLast();
+            ITest test = new TestTake();
             test.Test();
 
             Console.ReadLine();

@@ -54,6 +54,7 @@
     <Compile Include="Tests\TestLast.cs" />
     <Compile Include="Tests\TestSelect.cs" />
     <Compile Include="Tests\TestSingle.cs" />
+    <Compile Include="Tests\TestTake.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
